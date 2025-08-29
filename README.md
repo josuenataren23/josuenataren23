@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Josue DS3
 
-<!--
-**josuenataren23/josuenataren23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Frontend apasionado por crear interfaces limpias, rápidas y atractivas.
+Me encanta convertir ideas en experiencias visuales interactivas y optimizadas.
 
-Here are some ideas to get you started:
+🚀 Tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML5, CSS3, JavaScript, React
+Backend básico: PHP, MySQL / SQL
+
+🎯 Mi enfoque:
+
+“Código limpio, diseño intuitivo y experiencia de usuario fluida.”
+
+<div align="center">
+  <img height="300" src="https://pa1.narvii.com/6081/157c5c4495deeb7925526c44f9b6e9a6eba77707_hq.gif" alt="fun gif" />
+</div>
