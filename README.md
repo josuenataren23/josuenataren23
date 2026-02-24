@@ -15,4 +15,5 @@ Me encanta convertir ideas en experiencias visuales interactivas y optimizadas.
 “Interfaces intuitivas, modernas y limpias para brindar al usuario una experiencia agradable”
 
 🎢 Proyeccion a futuro:
+
 "Ser un diseñador Frontend con dominio en js y sus framework para construir aplicaciones web modernas y robustas"
