@@ -1,17 +1,18 @@
-## Holaaa, soy Josue DS3
+## Que onda, soy JosueDS3
 
-💻 Desarrollador Frontend Amateur apasionado por crear interfaces limpias, rápidas y atractivas.
+💻 Desarrollador Frontend en formación apasionado por crear interfaces limpias, rápidas y atractivas.
 Me encanta convertir ideas en experiencias visuales interactivas y optimizadas.
 
 🚀 Tecnologías:
 
-Frontend: HTML5, CSS3, 
-Proximamente: Javascript, PHP
+* HTML
+* CSS
+* TailwindCSS
+* Javascript (principiante)
 
 🎯 Mi enfoque:
 
-“Código limpio, diseño intuitivo, responsivo y experiencia de usuario fluida.”
+“Interfaces intuitivas, modernas y limpias para brindar al usuario una experiencia agradable”
 
-<div align="center">
-  <img height="300" src="https://pa1.narvii.com/6081/157c5c4495deeb7925526c44f9b6e9a6eba77707_hq.gif" alt="fun gif" />
-</div>
+🎢 Proyeccion a futuro:
+"Ser un diseñador Frontend con dominio en js y sus framework para construir aplicaciones web modernas y robustas"
