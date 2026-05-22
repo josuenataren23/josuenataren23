@@ -1,4 +1,4 @@
-## Que onda, soy JosueDS3
+## Hola, soy JosueDS3
 
 💻 Desarrollador Frontend en formación apasionado por crear interfaces limpias, rápidas y atractivas.
 Me encanta convertir ideas en experiencias visuales interactivas y optimizadas.
@@ -9,6 +9,8 @@ Me encanta convertir ideas en experiencias visuales interactivas y optimizadas.
 * CSS
 * TailwindCSS
 * Javascript (principiante)
+* .NET FRAMEWORK
+* SQL
 
 🎯 Mi enfoque:
 
